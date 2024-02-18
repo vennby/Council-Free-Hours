@@ -76,7 +76,7 @@ people = {
 }
 
 text='''
-The most possible number of free council members at a given time is 18, and the hour is M7. The other 
+The maximum possible number of free council members at a given time is 18, and the hour is M7. The other 
 hours include W7 (16), T6 (15), M1, M6 and Th6 (14), Th3 (12), M5 (11), and T4 and T5 (10).
 '''
 
