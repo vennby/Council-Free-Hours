@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-lit.set_page_config(page_title = "Free Hours", page_icon=":bulb:")
+st.set_page_config(page_title = "Free Hours", page_icon=":bulb:")
 
 hours = {
     "M1": [0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1],
