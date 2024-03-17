@@ -1,5 +1,5 @@
 <p align="left">
-<img src="./images/BITS_Pilani-Logo.svg.png" alt="logo" height="150"/>
+<img src="BITS_Logo.png" alt="logo" height="150"/>
 </p>
 
 <p align="right">
