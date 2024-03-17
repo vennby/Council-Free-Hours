@@ -1,11 +1,11 @@
-<p align="left">
-<img src="BITS_Logo.png" alt="logo" height="150"/>
+<p align="center">
+  <img src="GDSC-Logo.png" width="200">
 </p>
 
-<p align="right">
-<img src="./images/BITS_Pilani-Logo.svg.png" alt="logo" height="150"/>
-</p>
+<h1 align="center"> Council Free Hours </h1>
 
-# Council Free Hours
+<p align="center"> Simple Streamlit web-app to help optimize club activities offline, during campus hours.
 
-Simple Streamlit web-app to help optimize club activities offline, during campus hours. Made for Google Developers Student Club at BITS Pilani, Dubai Campus. Take a look at it [here](https://council-free-hours.streamlit.app/)! 
+<p align="center"> Made for Google Developers Student Club at BITS Pilani, Dubai Campus.
+
+<p align="center"> https://council-free-hours.streamlit.app/ </p>
